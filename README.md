@@ -87,7 +87,3 @@ python3 initial/local_runner.py solution.py initial/smoke.json --mock
 The project includes local simulation scenarios for testing the workflow.
 
 **Note:** Mock-mode execution is simulation-only. It does not establish successful communication with a real gateway or qualify as an official protocol test.
-
-## Project Status
-
-Currently under development.
